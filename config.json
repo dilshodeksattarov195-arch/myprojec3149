@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseserify",
+        "uuid": 26250064,
+        "checksum": "3o01ng"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
